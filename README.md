@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aceofroses or Garrett, whichever is easier
 - 👀 I’m interested in programming and networking
-- 🌱 I’m currently learning through The Odin Project
-- 💞️ I’m looking to collaborate on projects involving javascript as I learn it
+- 🌱 I am currently enrolled in a Bachelor's program for Computer Science with a concentration in Computer Science and 2 minors. Math and Business Computer Information Systems
+- 💞️ I’m looking to collaborate on projects to build my working knowledge of coding languages
 - 📫 How to reach me email me at aceofroses01@gmail.com
 
 <!---
